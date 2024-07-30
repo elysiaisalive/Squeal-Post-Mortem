@@ -72,7 +72,7 @@ Skyler
 Hyperix
 
 
--- Special Thanks --
+-- ☆Special Thanks☆ --
 January
 1SpiceyBurgar
 Zach
