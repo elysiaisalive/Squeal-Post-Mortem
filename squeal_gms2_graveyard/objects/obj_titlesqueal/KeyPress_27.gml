@@ -1,0 +1,1 @@
+event_perform(ev_global_right_press, 0);

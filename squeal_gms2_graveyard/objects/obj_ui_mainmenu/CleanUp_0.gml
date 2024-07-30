@@ -1,0 +1,2 @@
+controller.destroy();
+delete controller;

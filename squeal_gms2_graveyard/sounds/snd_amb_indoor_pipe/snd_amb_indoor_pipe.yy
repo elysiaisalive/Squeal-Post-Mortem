@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_amb_indoor_pipe",
+  "audioGroupId":{
+    "name":"audio_amb",
+    "path":"audiogroups/audio_amb",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":3.60907,
+  "name":"snd_amb_indoor_pipe",
+  "parent":{
+    "name":"Ambience",
+    "path":"folders/Squeal/Sounds/Environment/Ambience.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_amb_indoor_pipe.wav",
+  "type":2,
+  "volume":1.0,
+}

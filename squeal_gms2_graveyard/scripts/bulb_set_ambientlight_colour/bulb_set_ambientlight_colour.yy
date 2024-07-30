@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"bulb_set_ambientlight_colour",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bulb_set_ambientlight_colour",
+  "parent":{
+    "name":"Lighting",
+    "path":"folders/Squeal/Scripts/Game/World/Lighting.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

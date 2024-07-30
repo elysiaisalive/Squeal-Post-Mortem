@@ -1,0 +1,1 @@
+current_weapon.ammo = 0;

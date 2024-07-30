@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"config_save",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"config_save",
+  "parent":{
+    "name":"Config",
+    "path":"folders/Squeal/Scripts/Settings/Config.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

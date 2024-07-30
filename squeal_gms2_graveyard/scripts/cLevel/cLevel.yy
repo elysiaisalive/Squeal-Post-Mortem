@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cLevel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cLevel",
+  "parent":{
+    "name":"Level",
+    "path":"folders/Squeal/Scripts/Game/Engine/Classes/Level.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

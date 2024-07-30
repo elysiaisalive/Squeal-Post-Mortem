@@ -1,0 +1,2 @@
+draw_sprite_ext( shell_sprite, shell_index, shadow_x, shadow_y, image_xscale, image_yscale, shell_dir, c_black, image_alpha * 0.5 );
+draw_sprite_ext( shell_sprite, shell_index, shell_x, shell_y, image_xscale, image_yscale, shell_dir, image_blend, image_alpha );

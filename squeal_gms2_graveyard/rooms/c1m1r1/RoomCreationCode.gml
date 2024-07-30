@@ -1,0 +1,1 @@
+global.level.lvl = new cLevel_OLD( "Police Station", [[c1m1r1, false], [c1m1r2, false]] );

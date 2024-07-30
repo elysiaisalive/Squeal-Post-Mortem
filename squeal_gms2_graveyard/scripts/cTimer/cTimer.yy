@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cTimer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cTimer",
+  "parent":{
+    "name":"Clock",
+    "path":"folders/Libraries/Clock.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

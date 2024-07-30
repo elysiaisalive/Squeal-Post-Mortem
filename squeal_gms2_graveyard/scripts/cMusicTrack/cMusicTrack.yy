@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cMusicTrack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cMusicTrack",
+  "parent":{
+    "name":"MusicMixx",
+    "path":"folders/Libraries/MusicMixx.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

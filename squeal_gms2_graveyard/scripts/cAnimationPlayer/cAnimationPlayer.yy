@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cAnimationPlayer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cAnimationPlayer",
+  "parent":{
+    "name":"AnimationPlayer!",
+    "path":"folders/Libraries/AnimationPlayer!.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

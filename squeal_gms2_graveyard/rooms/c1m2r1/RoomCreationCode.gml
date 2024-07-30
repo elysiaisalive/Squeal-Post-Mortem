@@ -1,0 +1,1 @@
+global.level.lvl = new cLevel_OLD( room_get_name( room ), [[c1m2r1, false]] );

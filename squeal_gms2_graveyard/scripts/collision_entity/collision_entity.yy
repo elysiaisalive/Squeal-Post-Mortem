@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"collision_entity",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"collision_entity",
+  "parent":{
+    "name":"Collisions",
+    "path":"folders/Squeal/Scripts/Game/World/Collisions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

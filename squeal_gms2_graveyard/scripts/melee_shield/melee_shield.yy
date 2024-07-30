@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"melee_shield",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"melee_shield",
+  "parent":{
+    "name":"Melee",
+    "path":"folders/Squeal/Scripts/Game/World/Items/Melee.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

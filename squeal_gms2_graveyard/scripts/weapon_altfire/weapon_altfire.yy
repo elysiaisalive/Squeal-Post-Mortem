@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"weapon_altfire",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"weapon_altfire",
+  "parent":{
+    "name":"Items",
+    "path":"folders/Squeal/Scripts/Game/World/Items.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

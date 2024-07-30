@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"notes",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"notes",
+  "parent":{
+    "name":"Libraries",
+    "path":"folders/Libraries.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

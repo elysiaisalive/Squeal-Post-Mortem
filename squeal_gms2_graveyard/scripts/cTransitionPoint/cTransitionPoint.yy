@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cTransitionPoint",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cTransitionPoint",
+  "parent":{
+    "name":"MapTransition",
+    "path":"folders/Squeal/Scripts/Game/World/Classes/MapTransition.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

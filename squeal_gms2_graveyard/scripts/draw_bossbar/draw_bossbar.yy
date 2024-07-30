@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_bossbar",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_bossbar",
+  "parent":{
+    "name":"HUD",
+    "path":"folders/Squeal/Scripts/Game/Engine/UI/HUD.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

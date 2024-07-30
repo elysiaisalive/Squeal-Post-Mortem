@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_draw_hud",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_draw_hud",
+  "parent":{
+    "name":"HUD",
+    "path":"folders/Squeal/Scripts/Game/Engine/UI/HUD.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

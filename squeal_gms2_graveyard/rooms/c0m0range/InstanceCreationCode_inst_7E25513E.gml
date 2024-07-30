@@ -1,0 +1,1 @@
+player = obj_derby;

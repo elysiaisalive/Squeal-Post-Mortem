@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cAudioPlayer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cAudioPlayer",
+  "parent":{
+    "name":"Audio",
+    "path":"folders/Squeal/Scripts/Game/Engine/Classes/Audio.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cTransform3D",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cTransform3D",
+  "parent":{
+    "name":"Transforms",
+    "path":"folders/Squeal/Scripts/Game/Engine/Classes/Transforms.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

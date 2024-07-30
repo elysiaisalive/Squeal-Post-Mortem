@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"charDrawWeaponMods",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"charDrawWeaponMods",
+  "parent":{
+    "name":"Drawing",
+    "path":"folders/Squeal/Scripts/Game/World/Character/Drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

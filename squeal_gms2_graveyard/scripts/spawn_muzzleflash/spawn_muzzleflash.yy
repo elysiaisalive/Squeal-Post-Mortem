@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"spawn_muzzleflash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spawn_muzzleflash",
+  "parent":{
+    "name":"Items",
+    "path":"folders/Squeal/Scripts/Game/World/Items.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_hp_hit",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.538299,
+  "name":"snd_hp_hit",
+  "parent":{
+    "name":"Gore",
+    "path":"folders/Squeal/Sounds/Character/Gore.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_hp_hit.wav",
+  "type":2,
+  "volume":1.0,
+}

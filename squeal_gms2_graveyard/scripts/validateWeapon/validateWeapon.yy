@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"validateWeapon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"validateWeapon",
+  "parent":{
+    "name":"Items",
+    "path":"folders/Squeal/Scripts/Game/World/Items.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

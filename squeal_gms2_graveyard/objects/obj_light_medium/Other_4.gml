@@ -1,0 +1,1 @@
+light = new BulbLight( obj_lightingengine.renderer, spr_lightmask_medium, 0, x, y );

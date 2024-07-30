@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"charGetMovementDirection",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"charGetMovementDirection",
+  "parent":{
+    "name":"Helpers",
+    "path":"folders/Squeal/Scripts/Game/World/Character/Helpers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

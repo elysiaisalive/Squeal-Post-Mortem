@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"sfx_play",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sfx_play",
+  "parent":{
+    "name":"Audio",
+    "path":"folders/Squeal/Scripts/Game/Engine/Wrappers/Audio.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

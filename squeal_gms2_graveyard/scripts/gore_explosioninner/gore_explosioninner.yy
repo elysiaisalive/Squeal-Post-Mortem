@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"gore_explosioninner",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gore_explosioninner",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Squeal/Scripts/Game/World/Effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

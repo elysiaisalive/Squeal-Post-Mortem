@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cAnimation",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cAnimation",
+  "parent":{
+    "name":"Animation",
+    "path":"folders/Squeal/Scripts/Game/World/Classes/Animation.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

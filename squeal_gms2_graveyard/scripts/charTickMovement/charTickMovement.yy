@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"charTickMovement",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"charTickMovement",
+  "parent":{
+    "name":"Functionality",
+    "path":"folders/Squeal/Scripts/Game/World/Character/Functionality.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

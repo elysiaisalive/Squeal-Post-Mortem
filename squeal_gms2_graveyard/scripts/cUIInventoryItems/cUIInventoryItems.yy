@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cUIInventoryItems",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cUIInventoryItems",
+  "parent":{
+    "name":"Inventory",
+    "path":"folders/Squeal/Scripts/Game/Engine/Classes/GUI/UI/Inventory.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"log_to_file",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"log_to_file",
+  "parent":{
+    "name":"Console",
+    "path":"folders/Squeal/Scripts/Game/Engine/Console.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

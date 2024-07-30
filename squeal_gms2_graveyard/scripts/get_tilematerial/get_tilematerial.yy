@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"get_tilematerial",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_tilematerial",
+  "parent":{
+    "name":"World",
+    "path":"folders/Squeal/Scripts/Game/World.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

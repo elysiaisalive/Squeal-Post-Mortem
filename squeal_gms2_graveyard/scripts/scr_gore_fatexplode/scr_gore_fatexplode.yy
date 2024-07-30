@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_gore_fatexplode",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_gore_fatexplode",
+  "parent":{
+    "name":"Gore",
+    "path":"folders/Squeal/Scripts/Game/World/Effects/Gore.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

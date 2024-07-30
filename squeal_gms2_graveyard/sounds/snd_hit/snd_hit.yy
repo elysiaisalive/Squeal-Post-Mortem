@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_hit",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.412109,
+  "name":"snd_hit",
+  "parent":{
+    "name":"Melee",
+    "path":"folders/Squeal/Sounds/Item/Weapon/Melee.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_hit.wav",
+  "type":2,
+  "volume":1.0,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cPromptData",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cPromptData",
+  "parent":{
+    "name":"Prompts",
+    "path":"folders/Libraries/Prompts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

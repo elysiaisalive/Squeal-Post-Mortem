@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"change_room",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"change_room",
+  "parent":{
+    "name":"Console",
+    "path":"folders/Squeal/Scripts/Game/Engine/Console.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

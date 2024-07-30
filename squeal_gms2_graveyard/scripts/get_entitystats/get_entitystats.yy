@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"get_entitystats",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_entitystats",
+  "parent":{
+    "name":"HUD",
+    "path":"folders/Squeal/Scripts/Game/Engine/UI/HUD.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

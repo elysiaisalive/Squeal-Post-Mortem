@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_impact_extinguisherexplode",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.174807,
+  "name":"snd_impact_extinguisherexplode",
+  "parent":{
+    "name":"Impact",
+    "path":"folders/Squeal/Sounds/Environment/Impact.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_impact_extinguisherexplode.wav",
+  "type":2,
+  "volume":1.0,
+}

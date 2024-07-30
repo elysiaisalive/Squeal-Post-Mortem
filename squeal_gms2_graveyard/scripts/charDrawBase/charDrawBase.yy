@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"charDrawBase",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"charDrawBase",
+  "parent":{
+    "name":"Drawing",
+    "path":"folders/Squeal/Scripts/Game/World/Character/Drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

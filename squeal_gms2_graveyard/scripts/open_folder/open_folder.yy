@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"open_folder",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"open_folder",
+  "parent":{
+    "name":"Engine",
+    "path":"folders/Squeal/Scripts/Game/Engine.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

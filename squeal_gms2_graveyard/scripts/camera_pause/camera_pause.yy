@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"camera_pause",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"camera_pause",
+  "parent":{
+    "name":"Camera",
+    "path":"folders/Squeal/Scripts/Game/Engine/Classes/Camera.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

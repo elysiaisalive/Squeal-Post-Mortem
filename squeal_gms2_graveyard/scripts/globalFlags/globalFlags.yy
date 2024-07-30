@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"globalFlags",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"globalFlags",
+  "parent":{
+    "name":"Engine",
+    "path":"folders/Squeal/Scripts/Game/Engine.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

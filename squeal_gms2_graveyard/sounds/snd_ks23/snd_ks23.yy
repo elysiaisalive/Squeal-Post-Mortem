@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_ks23",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.248,
+  "name":"snd_ks23",
+  "parent":{
+    "name":"Gun",
+    "path":"folders/Squeal/Sounds/Item/Weapon/Gun.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_ks23.wav",
+  "type":2,
+  "volume":1.0,
+}

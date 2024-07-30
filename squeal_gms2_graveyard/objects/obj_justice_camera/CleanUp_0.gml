@@ -1,0 +1,1 @@
+audio_emitter_free( cam_emitter );

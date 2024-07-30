@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"gore_bullet",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gore_bullet",
+  "parent":{
+    "name":"Gore",
+    "path":"folders/Squeal/Scripts/Game/World/Effects/Gore.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cGunRemington",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cGunRemington",
+  "parent":{
+    "name":"Weapons",
+    "path":"folders/Squeal/Scripts/Game/World/Items/Weapons.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ui_mainmenu",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ui_mainmenu",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Squeal/Scripts/Game/Engine/UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

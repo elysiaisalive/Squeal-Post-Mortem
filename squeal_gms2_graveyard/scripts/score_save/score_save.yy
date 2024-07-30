@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"score_save",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"score_save",
+  "parent":{
+    "name":"Scoring",
+    "path":"folders/Squeal/Scripts/Settings/Scoring.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

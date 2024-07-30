@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"charAbilityMantling",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"charAbilityMantling",
+  "parent":{
+    "name":"Ability",
+    "path":"folders/Squeal/Scripts/Game/World/Character/Ability.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

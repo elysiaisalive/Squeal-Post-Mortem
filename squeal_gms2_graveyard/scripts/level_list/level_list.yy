@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"level_list",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"level_list",
+  "parent":{
+    "name":"Levels",
+    "path":"folders/Squeal/Scripts/Game/World/Levels.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

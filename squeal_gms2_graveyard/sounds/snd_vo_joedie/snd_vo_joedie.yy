@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_vo_joedie",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":4.492608,
+  "name":"snd_vo_joedie",
+  "parent":{
+    "name":"Voice",
+    "path":"folders/Squeal/Sounds/Character/Voice.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_vo_joedie.wav",
+  "type":2,
+  "volume":1.0,
+}

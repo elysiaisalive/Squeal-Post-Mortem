@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"base_gameobjects",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"base_gameobjects",
+  "parent":{
+    "name":"World",
+    "path":"folders/Squeal/Scripts/Game/World.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

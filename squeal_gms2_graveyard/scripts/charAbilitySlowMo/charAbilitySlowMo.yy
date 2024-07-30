@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"charAbilitySlowMo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"charAbilitySlowMo",
+  "parent":{
+    "name":"Ability",
+    "path":"folders/Squeal/Scripts/Game/World/Character/Ability.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

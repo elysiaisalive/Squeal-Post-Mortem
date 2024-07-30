@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cDifficultyConfig",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cDifficultyConfig",
+  "parent":{
+    "name":"Difficulty",
+    "path":"folders/Squeal/Scripts/Game/Engine/Classes/Difficulty.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

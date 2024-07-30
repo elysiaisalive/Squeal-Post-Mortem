@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cTriggerSoundFilter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cTriggerSoundFilter",
+  "parent":{
+    "name":"Triggers",
+    "path":"folders/Squeal/Scripts/Game/Engine/Classes/Triggers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

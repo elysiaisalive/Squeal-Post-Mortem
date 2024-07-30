@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_mac10s_2",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.539206,
+  "name":"snd_mac10s_2",
+  "parent":{
+    "name":"Suppressed",
+    "path":"folders/Squeal/Sounds/Item/Weapon/Gun/Mac10/Suppressed.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_mac10s_2.wav",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cState",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cState",
+  "parent":{
+    "name":"StateMachine",
+    "path":"folders/Squeal/Scripts/Game/World/Classes/StateMachine.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

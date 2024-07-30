@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_gun_deagle",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":2,
+  "conversionMode":0,
+  "duration":2.950159,
+  "name":"snd_gun_deagle",
+  "parent":{
+    "name":"Gun",
+    "path":"folders/Squeal/Sounds/Item/Weapon/Gun.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_gun_deagle.wav",
+  "type":2,
+  "volume":1.0,
+}

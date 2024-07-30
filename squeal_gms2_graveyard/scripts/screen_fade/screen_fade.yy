@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"screen_fade",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"screen_fade",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Squeal/Scripts/Game/Engine/UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

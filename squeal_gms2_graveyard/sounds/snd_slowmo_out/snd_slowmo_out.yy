@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_slowmo_out",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.56898,
+  "name":"snd_slowmo_out",
+  "parent":{
+    "name":"Slow Motion",
+    "path":"folders/Squeal/Sounds/UI/Slow Motion.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_slowmo_out.wav",
+  "type":2,
+  "volume":1.0,
+}

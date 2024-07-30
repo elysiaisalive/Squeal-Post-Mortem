@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"effects_impact_metalspark",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"effects_impact_metalspark",
+  "parent":{
+    "name":"Debris",
+    "path":"folders/Squeal/Scripts/Game/World/Effects/Debris.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

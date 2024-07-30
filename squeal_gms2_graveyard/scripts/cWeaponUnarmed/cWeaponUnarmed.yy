@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cWeaponUnarmed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cWeaponUnarmed",
+  "parent":{
+    "name":"Weapons",
+    "path":"folders/Squeal/Scripts/Game/World/Items/Weapons.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

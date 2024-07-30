@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrLimbSplosion",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrLimbSplosion",
+  "parent":{
+    "name":"Blood",
+    "path":"folders/Squeal/Scripts/Game/World/Effects/Gore/Blood.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

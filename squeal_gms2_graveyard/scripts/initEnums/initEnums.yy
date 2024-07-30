@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"initEnums",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"initEnums",
+  "parent":{
+    "name":"Init",
+    "path":"folders/Squeal/Scripts/Game/Engine/Init.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

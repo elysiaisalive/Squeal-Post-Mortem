@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"close_game",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"close_game",
+  "parent":{
+    "name":"Console",
+    "path":"folders/Squeal/Scripts/Game/Engine/Console.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

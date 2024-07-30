@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cItemStorage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cItemStorage",
+  "parent":{
+    "name":"Inventory",
+    "path":"folders/Squeal/Scripts/Game/World/Classes/Inventory.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

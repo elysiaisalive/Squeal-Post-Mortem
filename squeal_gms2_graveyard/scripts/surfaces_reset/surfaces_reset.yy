@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"surfaces_reset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"surfaces_reset",
+  "parent":{
+    "name":"Console",
+    "path":"folders/Squeal/Scripts/Game/Engine/Console.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

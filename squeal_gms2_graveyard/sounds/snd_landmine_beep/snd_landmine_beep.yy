@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_landmine_beep",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.395624,
+  "name":"snd_landmine_beep",
+  "parent":{
+    "name":"Environment",
+    "path":"folders/Squeal/Sounds/Environment.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_landmine_beep.wav",
+  "type":2,
+  "volume":1.0,
+}

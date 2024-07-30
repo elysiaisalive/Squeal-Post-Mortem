@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"initGameDirectories",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"initGameDirectories",
+  "parent":{
+    "name":"Init",
+    "path":"folders/Squeal/Scripts/Game/Engine/Init.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

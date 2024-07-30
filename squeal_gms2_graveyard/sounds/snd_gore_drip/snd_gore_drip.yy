@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_gore_drip",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":2,
+  "conversionMode":0,
+  "duration":0.620975,
+  "name":"snd_gore_drip",
+  "parent":{
+    "name":"Gore",
+    "path":"folders/Squeal/Sounds/Character/Gore.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_gore_drip.wav",
+  "type":2,
+  "volume":1.0,
+}

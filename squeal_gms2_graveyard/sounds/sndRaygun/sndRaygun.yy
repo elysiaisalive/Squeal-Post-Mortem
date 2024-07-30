@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndRaygun",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.56175,
+  "name":"sndRaygun",
+  "parent":{
+    "name":"Legacy",
+    "path":"folders/Squeal/Sounds/Item/Weapon/Legacy.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndRaygun",
+  "type":0,
+  "volume":1.0,
+}

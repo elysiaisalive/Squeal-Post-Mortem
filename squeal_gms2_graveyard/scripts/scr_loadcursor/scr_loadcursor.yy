@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_loadcursor",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_loadcursor",
+  "parent":{
+    "name":"Config",
+    "path":"folders/Squeal/Scripts/Settings/Config.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

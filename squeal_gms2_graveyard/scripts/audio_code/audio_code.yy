@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"audio_code",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"audio_code",
+  "parent":{
+    "name":"Audio",
+    "path":"folders/Squeal/Scripts/Game/Engine/Audio.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

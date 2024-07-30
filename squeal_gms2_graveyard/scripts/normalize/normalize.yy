@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"normalize",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"normalize",
+  "parent":{
+    "name":"Math",
+    "path":"folders/Squeal/Scripts/Game/Engine/Math.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

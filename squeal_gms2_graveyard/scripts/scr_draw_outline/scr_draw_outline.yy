@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_draw_outline",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_draw_outline",
+  "parent":{
+    "name":"Drawing",
+    "path":"folders/Squeal/Scripts/Game/World/Items/Drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

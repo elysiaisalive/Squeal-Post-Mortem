@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cPlayerStats",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cPlayerStats",
+  "parent":{
+    "name":"Statistics",
+    "path":"folders/Squeal/Scripts/Game/Engine/Classes/Statistics.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

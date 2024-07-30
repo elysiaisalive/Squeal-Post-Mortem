@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"__super__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__super__",
+  "parent":{
+    "name":"Super",
+    "path":"folders/Squeal/Scripts/Game/Engine/Classes/Super.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

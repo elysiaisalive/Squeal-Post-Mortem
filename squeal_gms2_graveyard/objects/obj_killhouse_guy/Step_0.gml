@@ -1,0 +1,1 @@
+image_speed		= anim_spd * delta;

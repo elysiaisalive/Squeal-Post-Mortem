@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_scorescreen",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_scorescreen",
+  "parent":{
+    "name":"HUD",
+    "path":"folders/Squeal/Scripts/Game/Engine/UI/HUD.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

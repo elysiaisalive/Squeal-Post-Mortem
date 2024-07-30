@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cSpawnerGroup",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cSpawnerGroup",
+  "parent":{
+    "name":"Spawner",
+    "path":"folders/Squeal/Scripts/Game/World/Classes/Spawner.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

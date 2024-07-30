@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndRelease",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":3,
+  "conversionMode":0,
+  "duration":0.153039,
+  "name":"sndRelease",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Squeal/Sounds/UI.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndRelease",
+  "type":0,
+  "volume":1.0,
+}

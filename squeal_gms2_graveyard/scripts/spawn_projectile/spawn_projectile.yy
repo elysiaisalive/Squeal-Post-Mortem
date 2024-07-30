@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"spawn_projectile",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spawn_projectile",
+  "parent":{
+    "name":"Items",
+    "path":"folders/Squeal/Scripts/Game/World/Items.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

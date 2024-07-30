@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"initNavgrid",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"initNavgrid",
+  "parent":{
+    "name":"Navgrid",
+    "path":"folders/Squeal/Scripts/Game/World/Character/AI/Navgrid.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

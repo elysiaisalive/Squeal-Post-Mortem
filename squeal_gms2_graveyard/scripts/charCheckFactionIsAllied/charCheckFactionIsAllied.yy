@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"charCheckFactionIsAllied",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"charCheckFactionIsAllied",
+  "parent":{
+    "name":"Helpers",
+    "path":"folders/Squeal/Scripts/Game/World/Character/Helpers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

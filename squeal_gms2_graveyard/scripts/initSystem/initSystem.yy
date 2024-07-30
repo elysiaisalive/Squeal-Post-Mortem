@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"initSystem",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"initSystem",
+  "parent":{
+    "name":"Libraries",
+    "path":"folders/Libraries.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

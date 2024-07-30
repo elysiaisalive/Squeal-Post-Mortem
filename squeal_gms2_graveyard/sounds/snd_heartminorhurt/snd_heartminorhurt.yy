@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_heartminorhurt",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.966213,
+  "name":"snd_heartminorhurt",
+  "parent":{
+    "name":"Heartbeat",
+    "path":"folders/Squeal/Sounds/UI/Heartbeat.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_heartminorhurt.wav",
+  "type":0,
+  "volume":1.0,
+}

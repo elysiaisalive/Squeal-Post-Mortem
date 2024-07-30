@@ -1,0 +1,1 @@
+draw_sprite_part(sprite_index, image_index, xoff, yoff, size, size, x - size / 2, y - size / 2)

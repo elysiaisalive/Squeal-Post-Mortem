@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"column_corners",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"column_corners",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Squeal/Scripts/Game/Engine/UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

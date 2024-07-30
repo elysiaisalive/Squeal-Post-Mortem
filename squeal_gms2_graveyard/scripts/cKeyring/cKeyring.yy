@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cKeyring",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cKeyring",
+  "parent":{
+    "name":"Inventory",
+    "path":"folders/Squeal/Scripts/Game/World/Classes/Inventory.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

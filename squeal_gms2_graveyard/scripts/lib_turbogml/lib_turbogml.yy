@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"lib_turbogml",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"lib_turbogml",
+  "parent":{
+    "name":"Libraries",
+    "path":"folders/Libraries.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

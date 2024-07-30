@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"collision_line_point",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"collision_line_point",
+  "parent":{
+    "name":"Collisions",
+    "path":"folders/Squeal/Scripts/Game/World/Collisions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

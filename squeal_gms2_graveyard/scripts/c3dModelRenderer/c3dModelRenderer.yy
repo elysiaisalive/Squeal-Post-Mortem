@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"c3dModelRenderer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"c3dModelRenderer",
+  "parent":{
+    "name":"3D",
+    "path":"folders/Libraries/3D.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

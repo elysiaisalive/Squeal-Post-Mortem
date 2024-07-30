@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_healthstation_charge",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.801497,
+  "name":"snd_healthstation_charge",
+  "parent":{
+    "name":"Dev",
+    "path":"folders/Squeal/Sounds/Environment/Furniture/Dev.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_healthstation_charge.wav",
+  "type":2,
+  "volume":1.0,
+}

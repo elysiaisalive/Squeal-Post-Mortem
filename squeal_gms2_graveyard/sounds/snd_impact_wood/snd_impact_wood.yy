@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_impact_wood",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.411066,
+  "name":"snd_impact_wood",
+  "parent":{
+    "name":"Impact",
+    "path":"folders/Squeal/Sounds/Environment/Impact.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_impact_wood.wav",
+  "type":2,
+  "volume":1.0,
+}

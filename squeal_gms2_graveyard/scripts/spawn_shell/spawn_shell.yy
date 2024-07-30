@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"spawn_shell",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spawn_shell",
+  "parent":{
+    "name":"Items",
+    "path":"folders/Squeal/Scripts/Game/World/Items.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

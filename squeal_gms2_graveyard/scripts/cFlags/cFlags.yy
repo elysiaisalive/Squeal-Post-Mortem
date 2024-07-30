@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cFlags",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cFlags",
+  "parent":{
+    "name":"Flags",
+    "path":"folders/Squeal/Scripts/Game/World/Classes/Flags.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

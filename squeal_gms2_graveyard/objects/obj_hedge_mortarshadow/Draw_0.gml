@@ -1,0 +1,1 @@
+draw_sprite_ext( spr_mortar_shadow, image_index, x, y, scale, scale, image_angle, c_black, alpha );

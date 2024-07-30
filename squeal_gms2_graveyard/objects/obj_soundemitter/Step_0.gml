@@ -1,0 +1,1 @@
+audio_emitter_pitch(emitter, timescale);

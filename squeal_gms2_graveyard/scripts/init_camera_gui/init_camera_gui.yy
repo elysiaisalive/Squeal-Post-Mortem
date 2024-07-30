@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"init_camera_gui",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"init_camera_gui",
+  "parent":{
+    "name":"Camera",
+    "path":"folders/Squeal/Scripts/Game/Engine/Classes/Camera.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

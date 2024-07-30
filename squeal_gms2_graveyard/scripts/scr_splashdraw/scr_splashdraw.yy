@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_splashdraw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_splashdraw",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Squeal/Scripts/Game/Engine/UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"audio_cleanup",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"audio_cleanup",
+  "parent":{
+    "name":"Audio",
+    "path":"folders/Squeal/Scripts/Game/Engine/Audio.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

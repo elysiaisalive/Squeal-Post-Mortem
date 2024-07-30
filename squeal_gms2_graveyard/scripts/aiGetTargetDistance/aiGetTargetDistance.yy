@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"aiGetTargetDistance",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"aiGetTargetDistance",
+  "parent":{
+    "name":"AI",
+    "path":"folders/Squeal/Scripts/Game/World/Character/AI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,1 @@
+global.level.lvl = new cLevel_OLD( "Zoo", [[rm_zoo, true]] );

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"gore_melee",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"gore_melee",
+  "parent":{
+    "name":"Gore",
+    "path":"folders/Squeal/Scripts/Game/World/Effects/Gore.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

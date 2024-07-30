@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"charAbilityReload",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"charAbilityReload",
+  "parent":{
+    "name":"Ability",
+    "path":"folders/Squeal/Scripts/Game/World/Character/Ability.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

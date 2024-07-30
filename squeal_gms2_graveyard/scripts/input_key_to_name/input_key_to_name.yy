@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"input_key_to_name",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"input_key_to_name",
+  "parent":{
+    "name":"Input",
+    "path":"folders/Squeal/Scripts/Settings/Config/Input.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndComboSqueal",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.38449,
+  "name":"sndComboSqueal",
+  "parent":{
+    "name":"Combo",
+    "path":"folders/Squeal/Sounds/UI/Combo.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndComboSqueal",
+  "type":0,
+  "volume":0.0,
+}

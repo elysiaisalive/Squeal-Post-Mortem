@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cPrompt",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cPrompt",
+  "parent":{
+    "name":"Prompts",
+    "path":"folders/Squeal/Scripts/Game/Engine/Classes/Prompts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

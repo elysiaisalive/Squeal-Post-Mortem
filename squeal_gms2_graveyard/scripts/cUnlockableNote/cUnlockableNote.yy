@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cUnlockableNote",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cUnlockableNote",
+  "parent":{
+    "name":"Collectible",
+    "path":"folders/Squeal/Scripts/Game/Engine/Classes/Collectible.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

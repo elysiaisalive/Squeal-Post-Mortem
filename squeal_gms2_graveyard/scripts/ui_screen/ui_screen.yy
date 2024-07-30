@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"ui_screen",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ui_screen",
+  "parent":{
+    "name":"Screen",
+    "path":"folders/Squeal/Scripts/Game/Engine/UI/Screen.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

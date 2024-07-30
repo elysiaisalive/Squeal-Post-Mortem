@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrGoreSurfaceDraw_Self",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrGoreSurfaceDraw_Self",
+  "parent":{
+    "name":"GoreSurface",
+    "path":"folders/Squeal/Scripts/Game/World/Effects/Gore/Blood/GoreSurface.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

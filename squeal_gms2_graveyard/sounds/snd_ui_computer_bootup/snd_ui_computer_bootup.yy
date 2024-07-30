@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_ui_computer_bootup",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":17.228167,
+  "name":"snd_ui_computer_bootup",
+  "parent":{
+    "name":"Menu",
+    "path":"folders/Squeal/Sounds/UI/Menu.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_ui_computer_bootup.wav",
+  "type":1,
+  "volume":1.0,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cItemSaveDisk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cItemSaveDisk",
+  "parent":{
+    "name":"Pickups",
+    "path":"folders/Squeal/Scripts/Game/World/Items/Pickups.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

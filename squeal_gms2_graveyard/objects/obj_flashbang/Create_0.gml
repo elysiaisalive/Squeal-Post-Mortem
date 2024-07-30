@@ -1,0 +1,1 @@
+flashbang_range = 16 * 4;

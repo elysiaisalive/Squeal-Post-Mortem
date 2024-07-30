@@ -1,0 +1,2 @@
+cAI.Tick();
+cAI.TickEntity();

@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_gui",
+  "name":"shd_gui",
+  "parent":{
+    "name":"GUI",
+    "path":"folders/Squeal/Shaders/GUI.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"base_cutscene",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"base_cutscene",
+  "parent":{
+    "name":"Cutscene",
+    "path":"folders/Squeal/Scripts/Game/Engine/UI/Cutscene.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

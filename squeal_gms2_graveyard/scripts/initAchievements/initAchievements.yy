@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"initAchievements",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"initAchievements",
+  "parent":{
+    "name":"Achievements",
+    "path":"folders/Squeal/Scripts/Game/Engine/Data/Achievements.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

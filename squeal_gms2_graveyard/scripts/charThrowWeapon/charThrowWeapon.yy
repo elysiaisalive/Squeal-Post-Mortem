@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"charThrowWeapon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"charThrowWeapon",
+  "parent":{
+    "name":"Functionality",
+    "path":"folders/Squeal/Scripts/Game/World/Character/Functionality.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

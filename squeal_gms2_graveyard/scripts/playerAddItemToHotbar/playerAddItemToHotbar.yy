@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"playerAddItemToHotbar",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"playerAddItemToHotbar",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Squeal/Scripts/Game/World/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

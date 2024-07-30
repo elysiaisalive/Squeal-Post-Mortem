@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_gun_m16",
+  "audioGroupId":{
+    "name":"audio_sfx",
+    "path":"audiogroups/audio_sfx",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":2,
+  "conversionMode":0,
+  "duration":1.071973,
+  "name":"snd_gun_m16",
+  "parent":{
+    "name":"M16",
+    "path":"folders/Squeal/Sounds/Item/Weapon/Gun/M16.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_m16.wav",
+  "type":0,
+  "volume":1.0,
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"goap_plan",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"goap_plan",
+  "parent":{
+    "name":"GOAP",
+    "path":"folders/Squeal/Scripts/Game/World/Character/AI/GOAP.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

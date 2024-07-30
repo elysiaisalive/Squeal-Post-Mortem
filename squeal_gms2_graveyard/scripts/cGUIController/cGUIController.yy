@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cGUIController",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cGUIController",
+  "parent":{
+    "name":"UI",
+    "path":"folders/Squeal/Scripts/Game/Engine/UI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

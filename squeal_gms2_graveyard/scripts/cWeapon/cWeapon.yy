@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cWeapon",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cWeapon",
+  "parent":{
+    "name":"Items",
+    "path":"folders/Squeal/Scripts/Game/World/Classes/Items.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

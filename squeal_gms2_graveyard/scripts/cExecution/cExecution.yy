@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cExecution",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cExecution",
+  "parent":{
+    "name":"Executions",
+    "path":"folders/Squeal/Scripts/Game/World/Classes/Executions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

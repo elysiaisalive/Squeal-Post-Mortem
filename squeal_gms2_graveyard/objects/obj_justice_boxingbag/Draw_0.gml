@@ -1,0 +1,33 @@
+draw_sprite_ext(
+	sprite_index, 
+	image_index,
+	x + shadow_depth,
+	y + shadow_depth,
+	image_xscale,
+	image_yscale,
+	image_angle,
+	c_black,
+	0.5
+	);
+draw_sprite_ext(
+	spr_justice_boxingbag_bottom, 
+	image_index,
+	x,
+	y,
+	image_xscale,
+	image_yscale,
+	0,
+	image_blend,
+	image_alpha
+	);
+draw_sprite_ext(
+	sprite_index, 
+	anim_spd,
+	x,
+	y,
+	image_xscale,
+	image_yscale,
+	image_angle,
+	image_blend,
+	image_alpha
+	);

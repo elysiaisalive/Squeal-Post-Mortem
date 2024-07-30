@@ -1,0 +1,1 @@
+function cDialoguePrompt() class {}

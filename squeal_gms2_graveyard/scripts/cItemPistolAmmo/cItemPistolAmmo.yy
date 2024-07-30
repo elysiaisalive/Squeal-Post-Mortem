@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cItemPistolAmmo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cItemPistolAmmo",
+  "parent":{
+    "name":"Pickups",
+    "path":"folders/Squeal/Scripts/Game/World/Items/Pickups.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

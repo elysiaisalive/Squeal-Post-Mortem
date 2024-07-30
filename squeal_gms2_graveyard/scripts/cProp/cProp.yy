@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cProp",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cProp",
+  "parent":{
+    "name":"Props",
+    "path":"folders/Squeal/Scripts/Game/World/Classes/Props.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

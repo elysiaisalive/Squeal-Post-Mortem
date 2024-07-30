@@ -1,0 +1,2 @@
+draw_sprite_ext( debrisSprite, debrisIndex, shadowX, shadowY, image_xscale, image_yscale, debrisDir, c_black, 0.50 );
+draw_sprite_ext( debrisSprite, debrisIndex, visPosX, visPosY, image_xscale, image_yscale, debrisDir, image_blend, image_alpha );

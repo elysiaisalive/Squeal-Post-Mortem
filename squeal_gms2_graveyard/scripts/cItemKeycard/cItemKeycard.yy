@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cItemKeycard",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cItemKeycard",
+  "parent":{
+    "name":"Pickups",
+    "path":"folders/Squeal/Scripts/Game/World/Items/Pickups.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

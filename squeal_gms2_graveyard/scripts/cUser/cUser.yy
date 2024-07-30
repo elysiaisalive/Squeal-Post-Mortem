@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"cUser",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cUser",
+  "parent":{
+    "name":"User",
+    "path":"folders/Squeal/Scripts/Game/Engine/Classes/User.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
