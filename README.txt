@@ -4,6 +4,8 @@ This project file contains a bunch of code and assets I created from 2021 - 2024
 Lots of stuff may be broken and or not work, documentation is sparse etc.
 This may not be an exhaustive contribution list, so please reach out if you feel like you haven't been credited properly.
 
+Built with GameMaker Runtime 2024.4.1.201
+
 // BELOW IS A LIST OF INCLUDED OPEN SOURCE LIBRARIES //
 
 Input - https://github.com/offalynne/Input
