@@ -1,7 +1,7 @@
 // !!! PLEASE READ EVERYTHING !!! //
 
 This project file contains a bunch of code and assets I created from 2021 - 2024 ( Roughly ) for the project 'Squeal'.
-Lots of stuff may be broken and or not work, documentation is sparse etc. Every code asset in this project is under the GPL-3.0 license!
+Lots of stuff may be broken and or not work, documentation is sparse etc.
 
 And please, ask for permission even if you feel like something you are using might not require it.
 
