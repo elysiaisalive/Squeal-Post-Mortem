@@ -1,0 +1,180 @@
+// Chapters 
+{
+	game.fallback				"invalid"
+	game.chapters.c0			"'Hallowed Ground'"
+	game.chapters.c1			"'Exhume'"
+	game.chapters.c2			"'Dark and Wet'"
+	game.chapters.c3			"'Unauthorized Entry'"
+	game.chapters.c4			"'Midnight'"
+	
+	game.notes.c1m1_01			""
+	game.notes.tutlocker_0		"Quit leaving your trash laying around! If you don't have room for your things, lock them up!"
+	game.notes.tutlocker_1		"Any belongings found outside of lockers WILL be taken to the Lost And Found!"
+	game.notes.tutlocker_2		"- chief"
+	
+	game.notes.gearnotes_0		"Order Form #402"
+	game.notes.gearnotes_1		"1x Colt's Official Police .38	1x Standard Issue Baton"
+	
+	game.notes.joebadge_0		"POLICE OFFICER - 402"
+	game.notes.joeid_0			""
+	
+	game.prompts.tutlocker		"There's an angry note on the locker."
+	game.prompts.shutterdoor_0	"A large metal shutter door is blocking the way."
+	game.prompts.shutterdoor_1	"It looks like the button needs a key."
+	
+	game.itemname.armourykey	"Armoury Key"
+	game.itemname.shutterkey	"Shutter Gate Key"
+	
+	game.itemname.38Colt		"C-38"
+	game.itemname.baton			"Baton"
+	game.itemname.bowie			"Bowie Knife"
+	game.itemname.12ga			"R-870"
+	game.itemname.44			"'Dirty Harry'"
+	game.itemname.striker		"Striker"
+	game.itemname.m10			"MAC-10"
+	game.itemname.fal			"FN FAL"
+	game.itemname.m14			"Mini-14"
+	
+	game.itemname.38Ammo		".38 Cartridges"
+	game.itemname.12gaAmmo		"12 Gauge Shells"
+	game.itemname.44Ammo		".44 Magnum Cartidges"
+	
+	game.itemname.lemon			"M26 'Lemon'"
+	game.itemname.smoke			"M18 'Red'"
+	game.itemname.flashlight	"Flashlight"
+	game.itemname.speedloader	"Speedloader"
+	
+	game.itemname.bandage		"Bandage"
+	game.itemname.morphine		"Morphine Injector"
+	game.itemname.medkit		"First-Aid Kit"
+	
+	game.itemname.punchcard		"Punch Card"
+	game.itemname.lockpick		"Lockpick"
+	game.itemname.battery		"Flashlight Battery"
+	game.itemname.Fuse			"Electric Fuse"
+	
+	game.itemname.facMap00		"ADVANCED ALLOY / FIRST FLOOR PLAN"
+	
+	game.itemdesc.38Colt		"Renowned Police sidearm known for its reliability. Chambered in .38 Special."
+	game.itemdesc.Baton			"Standard-issue baton used to stun or knockdown criminals."
+	game.itemdesc.Bowie			"A large and dangerous knife of murky origin. This beautiful blade is capable of cutting down anything in your path."
+	game.itemdesc.12ga			"Close Quarters Classic. Blow through anything in your way."
+	game.itemdesc.44			"'Smith, Wesson and me.' This sweet little thing is the most powerful handgun in the world."
+	game.itemdesc.Striker		"An exotic destructive device. Features a 12-round drum at the cost of an extremely slow reload."
+	game.itemdesc.M10			"A cheap bullet hose. Rips your targets to shreds at the cost of gross inaccuracy."
+	game.itemdesc.FAL			"'The Right Arm of the Free World'. Chambered in .308, this rifle has massive stopping power."
+	game.itemdesc.M14			"Popular with law enforcement and civilians, the Mini-14 is a highly versatile rifle for an assortment of situations."
+	
+	game.itemdesc.38AmmoSmall	"A small handful of .38 Special Cartridges."
+	game.itemdesc.12gaAmmoSmall	"A small handful of 12-Gauge Shells."
+	game.itemdesc.44AmmoSmall	"A small handful of .44 Magnum Cartridges."	
+	
+	game.itemdesc.38AmmoMedium	"Some .38 Special Cartridges."
+	game.itemdesc.12gaAmmoMedium "Some 12-Gauge Shells."
+	game.itemdesc.44AmmoMedium	"Some .44 Magnum Cartridges."	
+	
+	game.itemdesc.38AmmoLarge	"A lot of .38 Special Cartridges. Don't get too carried away!"
+	game.itemdesc.12gaAmmoLarge "A lot of 12-Gauge Shells."
+	game.itemdesc.44AmmoLarge	"A lot of .44 Magnum Cartridges."
+	
+	game.itemdesc.lemon			"Infamous for its 'Lemon'-Like shape. The M26 is a powerful tool for clearing crowds of enemies."
+	game.itemdesc.smoke			"A smoke grenade. Used to obscure the battlefield and provide cover. Featured in red."
+	game.itemdesc.flashlight	"A standard-issue flashlight. A heavy hitter in desperate situations."
+	
+	game.itemtag.speadloader38      "Loaded with .38 Special."
+	game.itemtag.speadloader44      "Loaded with .44 Magnum."
+	game.itemdesc.speedloaderEmpty	"A 6-Round Speedloader for when you're in a pinch. Needs to be refilled."
+	game.itemdesc.speedloaderHalf	"A 6-Round Speedloader for when you're in a pinch. Down some but not out!"
+	game.itemdesc.speedloaderFull	"A 6-Round Speedloader for when you're in a pinch. Locked and loaded."
+	
+	game.itemdesc.bandage		"A quick field dressing to stop any bleeding."
+	game.itemdesc.morphine		"Powerful and addictive instant pain relief. You best be careful when chasing the dragon."
+	game.itemdesc.medkit		"A comprehensive first-aid kit containing all things needed to deal with life threatening wounds."
+	
+	game.itemdesc.punchcard		"An old punch-card used by factory workers to clock in and out of the work day. Used to save game progress."
+	game.itemdesc.lockpick      "A heavily worn lockpick. Can open a single lock. Break and enter at your own risk!"
+	game.itemdesc.battery       "A small 'Type-C' Battery. Used to power your flashlight!"
+	game.itemdesc.fuse			"A small electrical fuse. Might be useful for restoring some power."
+	
+	game.itemdesc.facMap00		"A floor plan of the factory's first floor. Better leave a trail in case you get lost, breadcrumb style."
+	
+	game.roomnames			            "room"
+	
+	game.ui.promptPickup                ""
+	
+	game.ui.difficulty0                 "Normal"
+	game.ui.difficulty1                 "Hardcore"
+	game.ui.difficulty2                 "Nightmare"
+	
+	game.ui.normalUnlockDesc            ""
+	game.ui.hardcoreUnlockDesc          "Get your stars first."
+	game.ui.nightmareUnlockDesc         ""
+	
+	game.ui.normalDesc                  "The all-around experience. Descend into the horror."
+	game.ui.hardcoreDesc                "Hardboiled. Saving requires Punch Cards, saving no longer restores HP, backpack reloading disabled, damage has permanent consequence."
+	game.ui.nightmareDesc               "One chance to escape the slaughter; One Life, Hardcore ruleset and dying resets all progress."
+	
+	game.cfg.Options		            "Configure your ingame experience"
+	
+	game.cfgHeader.audio                "Audio"
+	game.cfg.masterVol		            "Volume of EVERYTHING."
+	game.cfg.musicVol		            "Volume of music"
+	game.cfg.sfxVol			            "Volume of sound effects like guns, UI, voices, etc."
+	game.cfg.ambVol			            "Volume of ambient sounds like wind, indoor drones, etc."
+	
+	game.cfgHeader.Controls             "Controls"
+	game.cfg.inputType                  "KBM or Gamepad."
+	game.cfg.ZoomMode		            "The input type to toggle, hold or hold to disable zooming."
+	game.cfg.Sensitivity	            "Mouse Sensitivity"
+	game.cfg.RawInput		            "If enabled the game will receive raw mouse input"
+	
+	game.cfg.PreconfigPotato            "Lowest Graphics Preset. Intended for Computers that should be replaced."
+	game.cfg.PreconfigLow	            "Low Graphics Preset. Intended for Laptops."
+	game.cfg.PreconfigNormal            "Normal Graphics Preset. Intended for any Computers made after 2000."
+	game.cfg.customConfig               "Custom Graphics Configuration."
+	
+	game.cfgHeader.graphics             "Graphics"
+	game.cfg.particlesOn	            "If enabled particles will be drawn to the screen"
+	game.cfg.particleAmnt	            "removelater>Low|Medium|High<removelater Controls the amount of particles that can be onscreen at any time."
+	game.cfg.lightingQuality            "Controls the quality that the ingame lighting will be rendered with."
+	game.cfg.lightingAA		            "If enabled, the ingame lighting will be rendered with Anti Aliasing."
+	game.cfg.decals			            "If enabled blood / debris decals are allowed to be drawn to the screen"
+	game.cfg.refreshRate	            "!EXPERIMENTAL! Changes game refresh rate, and subsequently some game logic may not work correctly"
+	game.cfg.shakerOn		            "If enabled, the camera will shake around from ingame actions such as explosions or shooting."
+	game.cfg.shaker			            "Intensity of camera shake."
+	
+	game.cfgHeader.accessibility		"Accessibility"
+	game.cfg.colorblind     			"Colorblind Filters."
+	game.cfg.noSick						"If enabled, Camera shake and any other distortion effects will be turned off."
+	game.cfg.lang						"Your language of preference."
+	game.cfg.closedCaptionEnabled       "If enabled, the game will display Closed Captioning for various audio sources."
+	game.cfg.closedCaptionMode0         "Closed Captions will display Audio Cues such as; Player, Enemy and Interaction Sounds."
+	
+	game.achname.normal             "BLOODY VALOR"
+	game.achname.hardcore           "DECORATED IN RED"
+	game.achname.nightmare          "INDUSTRIAL NIGHTMARE"
+	game.achname.skinomyteeth       "SKIN O MY TEETH"
+	game.achname.untouchable        "UNTOUCHABLE"
+	game.achname.beatblind          "BEATEN BLIND"
+	game.achname.peace              "KEEP THE PEACE"
+	game.achname.tranq              "TRANQUILIZER AND ADRENALINE"
+	game.achname.locknload          "LOCKED AND LOADED"
+	game.achname.modelofficer       "MODEL OFFICER"
+	game.achname.shockvalue         "SHOCK VALUE"
+	game.achname.lighttheway        "LIGHT THE WAY"
+	
+	game.achdesc.normal             "Beat the game on NORMAL difficulty."
+	game.achdesc.hardcore           "Beat the game on HARDCORE difficulty."
+	game.achdesc.nightmare          "Beat the game on NIGHTMARE difficulty."
+	game.achdesc.skinomyteeth       "Beat NIGHTMARE while on the lowest HP threshold."
+	game.achdesc.untouchable        "Beat NIGHTMARE without taking a single point of damage."
+	game.achdesc.beatblind          "Kill 25 Enemies with your flashlight."
+	game.achdesc.peace              "Beat the game without killing any normal enemies."
+	game.achdesc.tranq              "Use MORPHINE while at low HP and kill 3 Enemies in succession."
+	game.achdesc.locknload          "Acquire a max stack of any Ammo in your inventory and Ammo Pouch."
+	game.achdesc.modelofficer       "Beat the game using only the C-38 and find all evidence."
+	game.achdesc.shockvalue         "Fatally knock 10 enemies into dangerous electrical panels."
+	game.achdesc.lighttheway        "Beat the game using only the flashlight."
+	
+	game.cfg.secret			"What, you think there was supposed to be a secret here or something?"
+}
